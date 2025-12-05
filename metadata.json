@@ -1,0 +1,8 @@
+{
+  "name": "PharmaLocate AI",
+  "description": "An intelligent pharmacy finder powered by Gemini Maps Grounding to help you find health services nearby.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
